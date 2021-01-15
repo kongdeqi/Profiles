@@ -1,4 +1,4 @@
-#!name=Doh
+#!name=DH-DNS
 #!desc=DNS over HTTPS (DoH).
 
 [General]
